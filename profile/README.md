@@ -8,7 +8,6 @@
 </p>
 </h1>
 
----
 **Website** https://neu.health
 
 **LinkedIn** https://www.linkedin.com/company/neu-health/
