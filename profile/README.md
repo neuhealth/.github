@@ -2,19 +2,16 @@
 <br />
 <h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/44016070/222289278-6e3f911c-3318-48f4-9efa-68f23c88cb15.png" width="200px" height="200px" alt="Logo">
+  <a href="https://neu.health"><img src="https://user-images.githubusercontent.com/44016070/222745925-bf56f05f-a56a-4035-ae5b-676746a9031e.png" alt="Logo"></a>
   <br/>
-  <br>Neu Health
 </p>
-</h1>
-
-**Website** https://neu.health
-
-**LinkedIn** https://www.linkedin.com/company/neu-health/
-
-**Twitter** https://twitter.com/neu_health
-
----
+<p align="center">
+<a href="https://neu.health"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="20" height="20"></a>
+&nbsp;
+<a href="https://www.linkedin.com/company/neu-health/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="20" height="20"></a>
+&nbsp;
+<a href="https://twitter.com/neu_health"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" width="20" height="20"></a>
+</p>
 
 Making the latest  Parkinson’s &amp; dementia care <strong>accessible for all</strong></span>
 
