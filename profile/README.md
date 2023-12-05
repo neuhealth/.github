@@ -10,7 +10,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/company/neu-health/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="20" height="20"></a>
 &nbsp;
-<a href="https://twitter.com/neu_health"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" width="20" height="20"></a>
+<a href="https://x.com/neu_health"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" width="20" height="20"></a>
 </p>
 
 Making the latest  Parkinson’s &amp; dementia care <strong>accessible for all</strong></span>
