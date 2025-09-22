@@ -1,24 +1,36 @@
 <!-- LOGO -->
 <br />
-<h1>
 <p align="center">
-  <a href="https://neu.health"><img src="https://user-images.githubusercontent.com/44016070/222745925-bf56f05f-a56a-4035-ae5b-676746a9031e.png" alt="Logo"></a>
+  <a href="https://kneu.com"><img src="https://assets.kneu.com/images/kneu/logo-secondary-forest-kneu.png" alt="Logo" width="30%"></a>
   <br/>
 </p>
 <p align="center">
-<a href="https://neu.health"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="20" height="20"></a>
+<a href="https://kneu.com"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="20" height="20"></a>
 &nbsp;
 <a href="https://www.linkedin.com/company/neu-health/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="20" height="20"></a>
 &nbsp;
 <a href="https://x.com/neu_health"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" width="20" height="20"></a>
 </p>
 
-Making the latest  Parkinson’s &amp; dementia care <strong>accessible for all</strong></span>
+<h1>Better neurology care is here. Just ask the data.</h1>
 
-### Digital technology for clinicians, care givers & patients
+Backed by over a decade of Oxford research, Kneu turns smartphones into clinical-grade monitors for Parkinson’s and dementia—helping patients feel more confident, easing clinician workload, and lifting pressure from healthcare systems.
 
-Parkinson’s disease, dementia and other neurodegenerative conditions are fast becoming the biggest causes of mortality and morbidity worldwide. By 2050, 200 million people are predicted to be living with these conditions.
+### Parkinson’s disease & dementia are on the rise
 
-Neu Health enables clinicians, care givers and patients to tackle this growing challenge with cutting-edge digital technologies designed to make the latest care accessible for all, improving outcomes today and accelerating future breakthroughs.
+More people are living longer with complex conditions, but the support available is falling short of what’s needed.
 
-Neu Health builds on 10 years of research and clinical validation by neurologists neuroscientists and data scientists from the University of Oxford, with the concept having been trialed and validated successfully in over 1,500 participants, and described in international, peer reviewed publications.
+### No two patient journeys are the same
+
+Parkinson’s and dementia care is complex. Yet patients often have to rely on brief check-ins, managing complexity without real-time insight.
+
+### The system is paying the price
+
+When conditions are underdiagnosed and undertreated, patients end up in crisis and health systems struggle to bear the load.
+
+### Kneu is the neurology platform built for complexity, pressure, and change.
+
+* **Earlier, smarter detection** - Kneu’s MHRA-registered technology uses smartphones to capture continuous data, enabling earlier diagnosis, and proactive care in a field where late detection is the norm.
+* **Care that changes lives** - Kneu turns everyday data into better treatment. 53% of patients have medication changes based on the platform’s insights, leading to improvements in quality of life.
+* **Less burden on clinicians** - With clear visibility between visits, Kneu reduces guesswork and admin load. Case studies show 80% fewer patient calls and 20% shorter clinic visits, freeing time for more complex care.
+* **Stronger health systems** - EHR-integrated, Kneu supports systemwide adoption. NHS pilots saved 1,000 bed days per hospital per year with a 1% drop in Parkinson’s admissions (vs. a 3.2% rise nationally).
