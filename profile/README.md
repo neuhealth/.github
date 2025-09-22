@@ -7,9 +7,9 @@
 <p align="center">
 <a href="https://kneu.com"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="20" height="20"></a>
 &nbsp;
-<a href="https://www.linkedin.com/company/neu-health/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="20" height="20"></a>
+<a href="https://www.linkedin.com/company/kneu-health-ltd"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="20" height="20"></a>
 &nbsp;
-<a href="https://x.com/neu_health"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" width="20" height="20"></a>
+<a href="https://x.com/kneuhealth"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" width="20" height="20"></a>
 </p>
 
 <h1>Better neurology care is here. Just ask the data.</h1>
