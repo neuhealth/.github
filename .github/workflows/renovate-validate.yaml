@@ -1,0 +1,40 @@
+name: Renovate Config
+
+# Enforced org-wide as a required workflow (repository ruleset), so this runs in every repo.
+# Deliberately no `paths:` filter — a required check that never reports on a PR blocks it forever.
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate Renovate config
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      # 31 active repos have no Renovate config; they pass rather than fail. A repo that does have
+      # one still gets a hard failure from the action if it is broken.
+      - name: Look for a Renovate config
+        id: find
+        shell: bash
+        run: |
+          configs=$(git ls-files -- renovate.json renovate.json5 .renovaterc .renovaterc.json .renovaterc.json5)
+          if [ -n "$configs" ]; then
+            echo "found=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "found=false" >> "$GITHUB_OUTPUT"
+            echo "No Renovate config in this repository — nothing to validate." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Validate
+        if: ${{ steps.find.outputs.found == 'true' }}
+        uses: neuhealth/github-actions-workflows/renovate/validate@main
